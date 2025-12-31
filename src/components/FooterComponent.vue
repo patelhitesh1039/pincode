@@ -1,7 +1,7 @@
 <template>
     <footer>
       <div class="footer-content">
-        <p>&copy; 2023 Your Website Name</p>
+        <p>&copy; 2024 Pincode website</p>
       </div>
     </footer>
   </template>
